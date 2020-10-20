@@ -1,8 +1,9 @@
 .sidebar {
+  z-index: 1;
   height: 100vh;
   flex: 0.2;
   color: white;
-  min-width: 180px;
+  max-width: 180px;
   padding-left: 10px;
   padding-right: 10px;
   background-color: #040404;
